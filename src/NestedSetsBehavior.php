@@ -5,7 +5,7 @@
  * @license http://opensource.org/licenses/BSD-3-Clause
  */
 
-namespace creocoder\nestedsets;
+namespace maxxi165\nestedsets;
 
 use yii\base\Behavior;
 use yii\base\NotSupportedException;

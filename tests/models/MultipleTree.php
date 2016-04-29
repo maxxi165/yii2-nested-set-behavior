@@ -7,7 +7,7 @@
 
 namespace tests\models;
 
-use creocoder\nestedsets\NestedSetsBehavior;
+use maxxi165\nestedsets\NestedSetsBehavior;
 
 /**
  * MultipleTree

@@ -7,7 +7,7 @@
 
 namespace tests\models;
 
-use creocoder\nestedsets\NestedSetsQueryBehavior;
+use maxxi165\nestedsets\NestedSetsQueryBehavior;
 
 /**
  * TreeQuery
